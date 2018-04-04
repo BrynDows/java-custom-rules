@@ -6,7 +6,7 @@ class AvoidBrandInNamesCheck {
 
   int aField;
 
-  public void methodWithMYCOMPANY() { // Noncompliant {{Avoid using Brand in method name}}
+ public void methodWithMYCOMPANY() { // Noncompliant {{Avoid using Brand in method name}}
 
   }
 
